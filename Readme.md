@@ -65,5 +65,4 @@ Each row in the node data file follows the format:
 - **S_T**: 0.1 h (6 minutes)  
 - **TYPE**: 2 (Severely affected site)  
 - **Medical_Demand**: 1  
-- 
 
