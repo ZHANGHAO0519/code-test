@@ -40,7 +40,7 @@ PROFIT			Base profit for servicing this node.	Non-negative scalar
 k1				Profit decay rate for Phase 1.	
 k2				Profit decay rate for Phase 2.	
 S_T				Service time required at the node.	Hours
-TYPE				Node severity/priority type.	1 = Mildly affected site，2 = Severely affected site
+TYPE			Node severity/priority type.	1 = Mildly affected site，2 = Severely affected site
 Medical_Demand	Number of medical personnel units required.	Integer ≥ 0
 
 ================================================================
